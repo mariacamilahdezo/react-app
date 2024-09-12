@@ -1,0 +1,6 @@
+.MuiAvatar-rounded {
+	> img.MuiAvatar-img {
+		width: unset !important;
+		border-radius: 0;
+	}
+}
